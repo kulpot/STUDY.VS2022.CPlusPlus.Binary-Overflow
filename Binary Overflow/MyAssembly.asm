@@ -102,7 +102,10 @@ doit proc			; proc -- procedure
 	; ---------------------------------- Binary Overflow ------------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=c7FrcG6uS4E&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=8
 
-
+	; 0000 0000 is a null leading zero values of byte
+	; overflow - over the bits that can be hold
+	; 11 + 01 = 100	 this is a 2bit overflow
+	; overflow isues in 34bits vs 64bits
 
 
 
