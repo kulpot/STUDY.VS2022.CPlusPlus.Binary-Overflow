@@ -34,6 +34,8 @@ doit proc			; proc -- procedure
 	; Human - decimal - base 10 - 0 1 2 3 4 5 6 7 8 9
 	; Computer - binary - base 2 - 0 1 (off/on)
 
+	; bit - is a contraction of binary digit
+
 	; ----------------------------------- Converting Binary Values to Decimal ---------------------------
 	; ref link:https://www.youtube.com/watch?v=RhiFsBIXyME&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=2
 
