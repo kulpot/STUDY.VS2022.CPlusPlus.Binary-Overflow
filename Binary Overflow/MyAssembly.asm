@@ -99,6 +99,11 @@ doit proc			; proc -- procedure
 	; nible - groups of four bits 0000
 	; byte - groups of eight bits 0000 0000
 
+	; ---------------------------------- Binary Overflow ------------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=c7FrcG6uS4E&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=8
+
+
+
 
 
 
